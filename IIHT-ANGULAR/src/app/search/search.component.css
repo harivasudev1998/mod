@@ -1,0 +1,70 @@
+.bckimg{
+    background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+ 
+    height: 120%;
+}
+
+
+
+.scol{
+    
+    font-family: cursive;
+    color:whitesmoke;
+}
+
+.swidth{
+    width: min-content;
+    
+    
+}
+
+.alignm{
+    align-self: center;
+}
+
+.badge-col{
+    background-color: gold;
+    width: 10mm;
+    height: 6mm;
+}
+
+.badge-col1{
+    background-color:limegreen;
+    width: 10mm;
+    height: 6mm;
+}
+
+.card-wid{
+    width: 21rem;
+
+    
+}
+
+.card-col{
+    background-color: rgb(241, 203, 152);
+}
+
+.badge-linked{
+    background-color:crimson;
+    width: 10mm;
+    height: 6mm;
+}
+
+.marginb{
+    margin-bottom: 60%;
+}
+
+.bgc{
+    background-color: black;
+    color: white;
+}
+
+.back-search{
+    background-image: url("https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    /* background-size:cover; */
+    height: 100%;
+}
+
+.opacity{
+    opacity:0.85;
+}

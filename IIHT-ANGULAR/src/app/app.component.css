@@ -1,0 +1,21 @@
+.navbg{
+    background-color:seagreen;
+}
+.bottomnav{
+    position: fixed;
+	width: 100%;
+    bottom: 0;
+}
+
+.isize{
+    font-size:xx-large;
+}
+
+.btn-col1{
+    background-color: rgb(207, 25, 5);
+}
+
+.btn-col2{
+    background-color:rgb(212, 181, 0)
+}
+
